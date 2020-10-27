@@ -1,0 +1,19 @@
+{
+  "name": "advanced-basketball-stats",
+  "version": "1.0.0",
+  "description": "A npm module that calculates advanced basketball stats.",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorjaG90/advanced-basketball-stats.git"
+  },
+  "author": "BorjaG90",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BorjaG90/advanced-basketball-stats/issues"
+  },
+  "homepage": "https://github.com/BorjaG90/advanced-basketball-stats#readme"
+}

@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/BorjaG90/advanced-basketball-stats.git"
   },
-  "author": "BorjaG90",
+  "author": {
+    "name": "Borja Gete",
+    "email": "borjag90dev@gmail.com",
+    "url": "https://github.com/BorjaG90"
+  },
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/BorjaG90/advanced-basketball-stats/issues"

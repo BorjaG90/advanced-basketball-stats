@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/BorjaG90/advanced-basketball-stats/issues"
   },
-  "homepage": "https://github.com/BorjaG90/advanced-basketball-stats#readme"
+  "homepage": "https://github.com/BorjaG90/advanced-basketball-stats#readme",
+  "devDependencies": {
+    "fake-stats-generator": "git+https://github.com/BorjaG90/fake-stats-generator.git#v1.0"
+  }
 }

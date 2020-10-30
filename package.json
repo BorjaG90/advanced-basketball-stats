@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/BorjaG90/advanced-basketball-stats#readme",
   "devDependencies": {
-    "fake-stats-generator": "git+https://github.com/BorjaG90/fake-stats-generator.git#v1.0"
+    "fake-stats-generator": "git+https://github.com/BorjaG90/fake-stats-generator.git#v1.01"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
   }
 }

@@ -2,6 +2,15 @@ const { expect, assert } = require('chai');
 const { singleGame } = require('./data/mocks/single');
 const app = require('../lib/main');
 
+// Functions
+/* function writeOutputFile(nameFile, data){
+  fs.writeFile (`${nameFile}.json`, JSON.stringify(data), function(err) {
+    if (err) throw err;
+    console.log(`File ${nameFile} Write complete`);
+    }
+  );
+}; */
+
 // Tests that calculate values from one single game
 describe("Checks single games calculations", ()=>{
   before(()=>{
